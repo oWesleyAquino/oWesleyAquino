@@ -1,40 +1,55 @@
 # Wesley Aquino
 
-**Designer Full Stack em transição para Front-end**, com foco em UX/UI, interfaces web responsivas e experiências digitais funcionais.
+**Designer Full Stack em transição para Front-end**, com experiência em identidade visual, comunicação e UX/UI, atualmente desenvolvendo interfaces web responsivas e protótipos funcionais.
 
-Atuo conectando estratégia visual, design de interface e desenvolvimento para transformar briefings, marcas e referências em produtos digitais navegáveis e prontos para demonstração.
+Meu processo conecta **estratégia → UX/UI → design system → desenvolvimento → testes → deploy**.
 
-## Foco atual
+## Projetos em destaque
 
-- Front-end com **React, Next.js e TypeScript**
-- UX/UI para sites institucionais, landing pages e produtos digitais
-- Design systems e componentes reutilizáveis
-- Prototipação funcional e responsiva
-- Testes, acessibilidade, performance e publicação na Vercel
+### [Acordare — Redesign UX/UI & Front-end](https://acordare-redesign.vercel.app/)
 
-## Stack
+Protótipo conceitual de site institucional para o segmento de móveis e colchões. Inclui navegação responsiva, galeria filtrável, carrosséis e localizador de lojas com mapa interativo.
 
-**Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js  
-**UI:** Tailwind CSS, Motion, design systems, responsividade  
-**Ferramentas:** Git, GitHub, VS Code, Figma, Vercel  
-**Testes e qualidade:** Playwright, Chrome DevTools, acessibilidade e revisão de UX/UI
+- **[Demonstração online](https://acordare-redesign.vercel.app/)**
+- **[Código e estudo de caso](https://github.com/oWesleyAquino/acordare-redesign)**
 
-## Projeto em destaque
+**Tecnologias:** Next.js, React, TypeScript, CSS, Leaflet e OpenStreetMap.
 
-### [Acordare — Redesign UX/UI & Front-end](https://github.com/oWesleyAquino/acordare-redesign)
+### [LUFT Engenharia — Redesign UX/UI & Front-end](https://luft-engenharia-redesign.vercel.app/)
 
-Redesign conceitual e protótipo funcional de um site institucional, com navegação responsiva, galeria filtrável, microinterações e localizador de lojas com mapa.
+Protótipo conceitual de site institucional para engenharia elétrica e energia solar, com comunicação orientada a benefícios, navegação multipágina, carrosséis, microinterações e simulador demonstrativo.
 
-**[Abrir demonstração online](https://acordare-redesign.vercel.app)**
+- **[Demonstração online](https://luft-engenharia-redesign.vercel.app/)**
+
+**Tecnologias:** Next.js, React, TypeScript e Tailwind CSS. Repositório de código a publicar.
+
+> Ambos são **estudos independentes de redesign para portfólio**. Não representam sites oficiais, contratos ou endosso das empresas mencionadas.
+
+## Áreas de atuação
+
+- Desenvolvimento Front-end com React, Next.js e TypeScript
+- UX/UI Design, arquitetura da informação e design systems
+- Sites institucionais, landing pages e interfaces responsivas
+- Prototipação funcional, acessibilidade e otimização da experiência
+- Versionamento com Git/GitHub e publicação na Vercel
+
+## Ferramentas
+
+**Desenvolvimento:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
+**Design e prototipação:** UX/UI, Figma, componentes e design systems  
+**Workflow:** VS Code, Git, GitHub, Vercel, Chrome DevTools e Playwright
 
 ## Como trabalho
 
-Meu processo combina:
+1. Entendimento da marca e do problema
+2. Auditoria UX/UI e pesquisa de referências
+3. Arquitetura, conteúdo e direção visual
+4. Design system e desenvolvimento
+5. Validação de responsividade, interações e acessibilidade
+6. Publicação e refinamento
 
-**Briefing → Auditoria → Referências → Arquitetura → Design System → Desenvolvimento → Testes → Deploy**
+## Oportunidades
 
-O objetivo é criar interfaces que não sejam apenas visualmente interessantes, mas também claras, navegáveis, responsivas e coerentes com o negócio.
+Aberto a oportunidades de **Front-end Júnior**, projetos freelance e trabalhos que conectem **design estratégico, UX/UI e desenvolvimento web**.
 
----
-
-Aberto a oportunidades de **Front-end Júnior**, projetos freelance de desenvolvimento web e trabalhos que combinem **Design + Front-end**.
+> As funcionalidades e tecnologias de cada case são detalhadas nos respectivos projetos. Métricas de conversão ou resultados comerciais não são atribuídos a estudos conceituais.
